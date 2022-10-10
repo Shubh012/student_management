@@ -24,6 +24,7 @@ class student    //Structure student is made to store student attributes.
 };
 
 student rec[50];  //This is basic array of defined structure to sore data.
+//Array of objects
 int main()
 {
   int choice;
