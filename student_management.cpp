@@ -23,7 +23,7 @@ class student    //Structure student is made to store student attributes.
   string address;
 };
 
-//student rec[50];  //This is basic array of defined structure to sore data.
+student rec[50];  //This is basic array of defined structure to sore data.
 int main()
 {
   int choice;
